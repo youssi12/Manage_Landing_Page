@@ -1,7 +1,7 @@
 import {Menu,X} from "lucide-react"
 import logo from "../assets/images/logo.svg";
 import { useState } from "react";
-import shape from "../assets/images/bg-tablet-pattern.svg"
+
 
 export default function Navbar() {
 
@@ -14,13 +14,7 @@ export default function Navbar() {
     <div className="w-full fixed top-0 left-0 z-50 px-4 mt-3 ">
   <div className="w-full flex items-center justify-between mx-auto relative max-w-[1200px] ">
     
-    {/* Decorative blob goes first */}
-    <img
-      className="absolute -top-25 -right-20 transform scale-[0.9] z-0 opacity-70"
-      src={shape}
-      alt="decorative"
-    />
-
+   
     {/* Logo */}
     <div className="w-20 h-10 flex items-center scale-120 mr-4 z-10">
       <img src={logo} alt="logo" />

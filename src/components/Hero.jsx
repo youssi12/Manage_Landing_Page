@@ -2,7 +2,7 @@ import stats from "../assets/images/illustration-intro.svg";
 
 export default function Hero() {
   return  (
-   <div className=" z-20">
+   <div className=" z-30">
 
        <div className=" ">
         <img src={stats} alt="statistics" />
