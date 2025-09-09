@@ -1,0 +1,4 @@
+/* Remove default browser margin */
+body {
+  margin: 0;
+}
