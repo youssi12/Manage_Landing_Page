@@ -2,3 +2,20 @@
 body {
   margin: 0;
 }
+
+.swiper-pagination-bullet {
+  background:   #f25f3a !important;
+}
+
+/* Active bullet (the one showing current slide) */
+.swiper-pagination-bullet-active {
+  background:  #f25f3a !important; /* you can pick a deeper orange */
+}
+
+/* Both arrows */
+.swiper-button-next,
+.swiper-button-prev {
+  color:  #f25f3a !important;   /* changes arrow color */
+  fill:   #f25f3a !important;    /* for SVG-based arrows */
+  stroke:   #f25f3a !important;  /* fallback */
+}
