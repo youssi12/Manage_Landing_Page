@@ -23,4 +23,4 @@ I improved my understanding of **Tailwind CSS** and **Responsivity**.
 
 ## Author
  
-- GitHub - [@yourusername](https://github.com/youssi12)
+- GitHub - [@youssi12](https://github.com/youssi12)
