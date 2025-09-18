@@ -7,8 +7,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add your GitHub repo link here](https://github.com/youssi12/Manage_Landing_Page)
-- Live Site URL: [Add your live site link here](https://your-live-site-url.com)
+- Solution URL: [link](https://github.com/youssi12/Manage_Landing_Page)
+- Live Site URL: [link](https://youssi12.github.io/Manage_Landing_Page/)
 
 ## My process
 
@@ -16,7 +16,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - React + Vite
 - Tailwind CSS
 - Mobile-first workflow
-- Flexbox & Grid
+- Flexbox  
 
 ### What I learned
 I improved my understanding of **Tailwind CSS** and **Responsivity**.
